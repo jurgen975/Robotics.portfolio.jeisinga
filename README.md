@@ -10,7 +10,6 @@ Outside of work, I enjoys fitness, fencing, and creating 3D-printed models, alon
 
 
 # Arvatar project
-Capgemini Engineering (previously known as Altran Technologies, SA merched with Sogeti) is a global innovation and engineering consulting firm.
 
 Arvatar is a innovation project with the aim to remotely control a robotic system.
 This avatar project is spin of the previous project where rover +arm should been have been build but because of manpower issues never came to fruition
