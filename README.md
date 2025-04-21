@@ -29,6 +29,17 @@ The robot arm should concsist out of actuators with a minimum backslash.
 The robot arm should be around 1.5 to 2 m long.
 The robot arm should controlled with haptic gloves or toggles.
 
+# 2.Conceptual design
+
+I am very familair with the V-shape model that is used by module architect withinn asml,applied this many times myself whena transport tool was designed
+git add images/my-photo.jpg
+git commit -m ""
+git push
+
+
+
+
+
 
 
 
