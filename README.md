@@ -33,7 +33,15 @@ The robot arm should controlled with haptic gloves or toggles.
 
 I am very familair with the V-shape model that is used by module architect withinn asml,applied this many times myself whena transport tool was designed
 git add images/my-photo.jpg
-git commit -m ""
+git commit -m "Add portfolio imag"
+git push
+
+git add images/my-photo.jpg
+git commit -m "Add portfolio image"
+git push
+
+git add images/my-photo.jpg
+git commit -m "Add portfolio image"
 git push
 
 
