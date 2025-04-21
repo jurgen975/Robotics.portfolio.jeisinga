@@ -7,3 +7,15 @@ I am a Senior Designer with a background in complex engineering projects across 
  I am proficient in industry-standard CAD tools such as NX, Fusion360, and Inventor, and I have a track record in structural design, FEM calculations, and prototype testing. His educational foundation in Mechanical Engineering from HTS WTB(BSc) Breda.
 
 Outside of work, I enjoys fitness, fencing, and creating 3D-printed models, alongside hands-on projects like telescope construction.
+
+
+# Arvatar project
+Capgemini Engineering (previously known as Altran Technologies, SA merched with Sogeti) is a global innovation and engineering consulting firm.
+
+Arvatar is a innovation project with the aim to remotely control a robotic system.
+This avatar project is spin of the previous project where rover +arm should been have been build but because of manpower issues never came to fruition
+The current version of the avatar project is scaled down where just the arm is going to be constructed
+
+The arm should be build out 3D printed material and cheap stepper motors
+The arm should be able to pick up a item from 0,5-2 kg heavy
+To overcome the limited torque of the stepper motors the joints of the arm will consist out of cycloidal drives generating sufficient torque to pick a object over a 1 meter or more
