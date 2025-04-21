@@ -1,4 +1,4 @@
-# Robotics.portfolio.jeisinga
+# About
 
 I am a Senior Designer with a background in complex engineering projects across various industries, including semiconductor technology, robotics, and heavy machinery. Currently, at Capgemini Engineering, I lead the development of a robotic arm for the innovative Avatar Project. This initiative focuses on remote-controlled robotics, leveraging 3D printing and cycloidal drive mechanisms to maximize torque and efficiency in a lightweight design.
 
