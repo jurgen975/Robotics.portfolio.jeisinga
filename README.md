@@ -9,7 +9,7 @@ I am a Senior Designer with a background in complex engineering projects across 
 Outside of work, I enjoys fitness, fencing, and creating 3D-printed models, alongside hands-on projects like telescope construction.
 
 
-# Arvatar project
+# 1.Arvatar project
 
 Arvatar Project Summary
 
@@ -18,3 +18,17 @@ Arvatar is an innovation project focused on developing a remotely controlled rob
 The current version of Arvatar takes a more focused approach, concentrating solely on the development of a robotic arm. The arm will be constructed using 3D-printed components and low-cost stepper motors to keep the design affordable and accessible.
 
 To address the torque limitations of stepper motors, each joint of the arm will incorporate cycloidal drives, enabling it to lift objects weighing between 0.5 and 2 kg. The design aims to maintain full functionality even at a reach of over 1 meter, making the system practical for a wide range of remote manipulation tasks.
+
+# 2.Specs of the robot arm
+
+The specs for the robot arm are fairly simply.
+The robot arm should be build out of cheap 3D printed material(pla or ABS).
+The should be build consiting out of cheap cloed loop stepper motors.
+The robot arm Should be strong enough to pick up between 0.5 and 2 kg.
+The robot arm should concsist out of actuators with a minimum backslash.
+The robot arm should be around 1.5 to 2 m long.
+The robot arm should controlled with haptic gloves or toggles.
+
+
+
+
