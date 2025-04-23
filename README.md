@@ -34,16 +34,7 @@ The robot arm should controlled with haptic gloves or toggles.
 I am very familair with the V-shape model that is used by module architect withinn asml,applied this many times myself whena transport tool was designed
 I designed 3 concepts with rufly the same dimensions
 From these 3 concepts i selected what i thought was the best one and started to calculate the torque in each actuator
-git add images/my-photo.jpg
-git commit -m "Add portfolio imag"
-git push
 
-git add images/my-photo.jpg
-git commit -m "Add portfolio image"
-git push
-
-git add images/my-photo.jpg
-git commit -m "Add portfolio image"
 git push
 
 
