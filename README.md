@@ -35,7 +35,8 @@ I am very familair with the V-shape model that is used by module architect withi
 I designed 3 concepts with rufly the same dimensions
 From these 3 concepts i selected what i thought was the best one and started to calculate the torque in each actuator
 
-git push
+![Alt text](relative/path/to/image.jpg)
+
 
 
 
