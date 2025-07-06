@@ -52,8 +52,8 @@ So i designed it again with a excenter of 2 mm and i also found out that you can
 I redesigned protype cycliodal drive and printed it again then put all the parts together again and it was working perfectly.
 I also wanted to test it with using a arduino but i was not sure hoe much time i had this project to me it was enought that prototype was working hence i continued with the design of the arm.
 
-![Watch the video](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/d2b5cc87642ac461dbbed94f29ab48fe1df9d472/motion%20link%20study%20current%20design_2.mp4)
 
 
+![video](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/3668cabb3ebf1e52ccdc7897ecf6a4bbf3a66c7e/motion%20link%20study%20current%20design_2.mp4)
 
 
