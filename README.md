@@ -35,7 +35,7 @@ I am very familair with the V-shape model that is used by module architect withi
 I designed 3 concepts with rufly the same dimensions
 From these 3 concepts i selected what i thought was the best one and started to calculate the torque in each actuator
 
-https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/9222d2c882175ccd3f7f67928d916f9803c88fe6/IMG_20240926_170603.jpg
+![image alt]([image_url](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/be89b581bd03f59431a37c7bcfab466a5cda8ad2/IMG_20240926_170603.jpg))
 
 
 
