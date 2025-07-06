@@ -19,6 +19,9 @@ The current version of Arvatar takes a more focused approach, concentrating sole
 
 To address the torque limitations of stepper motors, each joint of the arm will incorporate cycloidal drives, enabling it to lift objects weighing between 0.5 and 2 kg. The design aims to maintain full functionality even at a reach of over 1 meter, making the system practical for a wide range of remote manipulation tasks.
 
+![image](https://github.com/user-attachments/assets/fa6380ac-43d5-4a85-bad9-8b0d069d5963)
+
+
 # 2.Specs of the robot arm
 
 The specs for the robot arm are fairly simply.
@@ -35,7 +38,8 @@ I am very familair with the V-shape model that is used by module architect withi
 I designed 3 concepts with rufly the same dimensions
 From these 3 concepts i selected what i thought was the best one and started to calculate the torque in each actuator
 
-![image alt](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/14c25c95d1b9b8e6ebd4231c433050996bbf592f/IMG_20240926_170603.jpg)
+![image](https://github.com/user-attachments/assets/4db92b54-e1aa-4ecb-a98a-01e20de30674)
+
 
 
 
