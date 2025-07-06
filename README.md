@@ -34,9 +34,9 @@ The robot arm should controlled with haptic gloves or toggles.
 
 # 2.Conceptual design
 
-I am very familair with the V-shape model that is used by module architect withinn asml,applied this many times myself whena transport tool was designed
-I designed 3 concepts with rufly the same dimensions
-From these 3 concepts i selected what i thought was the best one and started to calculate the torque in each actuator
+I am very familair with the V-shape model that is used by module architect within asml,applied this many times myself whena transport tool was designed
+I designed 3 concepts with rufly the same dimensions.
+From these 3 concepts I selected what I thought was the best one and started to calculate the torque in each actuator.
 
 ![image](https://github.com/user-attachments/assets/4db92b54-e1aa-4ecb-a98a-01e20de30674)
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg)
