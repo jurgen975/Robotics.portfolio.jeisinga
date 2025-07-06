@@ -43,6 +43,9 @@ From these 3 concepts I selected what I thought was the best one and started to 
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg)
 
 
+# 3.Design and building of the the first test cycliodal drive
+
+Because the design was made in fusion 360 I could use a app thats calles cycliodal drive maker else it would be almost impossible the the design the cycliodal drives that where used.
 
 
 
