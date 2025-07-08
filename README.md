@@ -67,7 +67,8 @@ I also wanted to test it with using a arduino but i was not sure hoe much time i
 
 
 
-https://github.com/user-attachments/assets/4130cd9a-da22-4778-a9e9-22f2ee336a4f
+https://github.com/user-attachments/assets/e70b8185-3f4b-4077-83a3-0df5fe74d98e
+
 
 Fig 4. Motion link study cycliodal drive
 
