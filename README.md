@@ -26,6 +26,7 @@ Fig.1 concept of rover with robotic arm
 
 
 
+
 # 2.Specs of the robot arm
 
 The specs for the robot arm are fairly simply.
@@ -36,6 +37,7 @@ The robot arm should concsist out of actuators with a minimum backslash.
 The robot arm should be around 1.5 to 2 m long.
 The robot arm should controlled with haptic gloves or toggles.
 
+
 # 2.Conceptual design
 
 I am very familair with the V-shape model that is used by module architect within asml,applied this many times myself whena transport tool was designed
@@ -43,7 +45,9 @@ I designed 3 concepts with rufly the same dimensions.
 From these 3 concepts I selected what I thought was the best one and started to calculate the torque in each actuator.
 
 
-![image](https://github.com/user-attachments/assets/4db92b54-e1aa-4ecb-a98a-01e20de30674 width="300)
+<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg?raw=true" width="50%">
+
+fig 2.Concept 1 robotic arm
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg)
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg)
 
