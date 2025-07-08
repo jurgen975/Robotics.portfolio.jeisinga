@@ -71,11 +71,13 @@ https://github.com/user-attachments/assets/4130cd9a-da22-4778-a9e9-22f2ee336a4f
 
 Fig 4. Motion link study cycliodal drive
 
-Why a cycliodal drive?
-How a Cycloidal Drive Works
+# Why a cycliodal drive?
+
+First of all i have looked at a view options but desided on a cycliodal drive because:
+
 A cycloidal drive is a high-torque, low-backlash gear system often used in robotics. It converts high-speed motor input into low-speed, high-torque output through a unique motion.
 
-⚙️ Key Parts
+# Key Parts
 Input shaft with an eccentric cam
 
 Cycloidal disc with lobes
@@ -84,7 +86,7 @@ Fixed outer ring with pins
 
 Output rollers connected to the shaft
 
-🚀 How It Works
+# How It Works
 The motor spins the input shaft.
 
 The eccentric cam makes the cycloidal disc "wobble" (orbit).
