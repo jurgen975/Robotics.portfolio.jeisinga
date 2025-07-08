@@ -44,12 +44,12 @@ I am very familair with the V-shape model that is used by module architect withi
 I designed 3 concepts with rufly the same dimensions.
 From these 3 concepts I selected what I thought was the best one and started to calculate the torque in each actuator.
 
+<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg?raw=true" width="50%">
 
-<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg?raw=true" width="50%">
 
 fig 2.Concept 1 robotic arm
+<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg?raw=true" width="50%">
 
-<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg?raw=true" width="50%">
 
 Fig 3. Concept 2 robotic arm
 
