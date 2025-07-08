@@ -21,7 +21,7 @@ To address the torque limitations of stepper motors, each joint of the arm will 
 
 
 
-![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/4f23e76be507385357aeccc5363b5b43af4e9b93/1720725839099.jpeg?raw=true" width="50%")
+<![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/4f23e76be507385357aeccc5363b5b43af4e9b93/1720725839099.jpeg?raw=true" width="50%">
 
 
 
