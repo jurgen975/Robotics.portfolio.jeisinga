@@ -65,10 +65,38 @@ I redesigned protype cycliodal drive and printed it again then put all the parts
 I also wanted to test it with using a arduino but i was not sure hoe much time i had this project to me it was enought that prototype was working hence i continued with the design of the arm.
 
 
-https://github.com/user-attachments/assets/8f9b8c5d-fb63-4ee2-9617-92ae7718714e
+
 
 https://github.com/user-attachments/assets/4130cd9a-da22-4778-a9e9-22f2ee336a4f
 
 Fig 4. Motion link study cycliodal drive
+
+Why a cycliodal drive?
+How a Cycloidal Drive Works
+A cycloidal drive is a high-torque, low-backlash gear system often used in robotics. It converts high-speed motor input into low-speed, high-torque output through a unique motion.
+
+⚙️ Key Parts
+Input shaft with an eccentric cam
+
+Cycloidal disc with lobes
+
+Fixed outer ring with pins
+
+Output rollers connected to the shaft
+
+🚀 How It Works
+The motor spins the input shaft.
+
+The eccentric cam makes the cycloidal disc "wobble" (orbit).
+
+The lobed disc engages with more pins than it has lobes (e.g. 20 lobes, 21 pins).
+
+This causes the disc to slowly rotate backwards.
+
+Output rollers capture this motion and rotate the output shaft at reduced speed.
+
+
+
+
 
 
