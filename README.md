@@ -102,7 +102,7 @@ Output rollers capture this motion and rotate the output shaft at reduced speed.
 
 Fig 5.Example calculation cycliodal drive
 
-## Pros
+### Pros
 High torque
 
 Low backlash
@@ -111,16 +111,17 @@ Compact
 
 Shock-resistant
 
-## Cons
+### Cons
 Complex design
 
 Needs lubrication
 
 Slight vibration
 
+
 https://github.com/user-attachments/assets/511e2779-7a20-463b-a285-b157359c101a
 
-
+Fig 6.Example Openwork cycliodal drive
 
 
 
