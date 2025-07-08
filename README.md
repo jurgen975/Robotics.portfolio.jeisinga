@@ -53,7 +53,7 @@ So i designed it again with a excenter of 2 mm and i also found out that you can
 I redesigned protype cycliodal drive and printed it again then put all the parts together again and it was working perfectly.
 I also wanted to test it with using a arduino but i was not sure hoe much time i had this project to me it was enought that prototype was working hence i continued with the design of the arm.
 
-
+https://github.com/user-attachments/assets/8f9b8c5d-fb63-4ee2-9617-92ae7718714e
 
 
 
