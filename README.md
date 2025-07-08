@@ -67,6 +67,11 @@ I also wanted to test it with using a arduino but i was not sure hoe much time i
 
 https://github.com/user-attachments/assets/8f9b8c5d-fb63-4ee2-9617-92ae7718714e
 
+<video width="50%" controls>
+  <source src="YOUR_VIDEO_LINK_HERE" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Fig 4. Motion link study cycliodal drive
 
 
