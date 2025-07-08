@@ -38,7 +38,8 @@ I am very familair with the V-shape model that is used by module architect withi
 I designed 3 concepts with rufly the same dimensions.
 From these 3 concepts I selected what I thought was the best one and started to calculate the torque in each actuator.
 
-![image](https://github.com/user-attachments/assets/4db92b54-e1aa-4ecb-a98a-01e20de30674)
+
+![image](https://github.com/user-attachments/assets/4db92b54-e1aa-4ecb-a98a-01e20de30674 width="300)
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg)
 ![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg)
 
@@ -54,6 +55,6 @@ I also wanted to test it with using a arduino but i was not sure hoe much time i
 
 
 
-![video](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/3668cabb3ebf1e52ccdc7897ecf6a4bbf3a66c7e/motion%20link%20study%20current%20design_2.mp4)
+
 
 
