@@ -48,8 +48,10 @@ From these 3 concepts I selected what I thought was the best one and started to 
 <img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg?raw=true" width="50%">
 
 fig 2.Concept 1 robotic arm
-![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg)
-![image](https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg)
+
+<img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081868763.jpg?raw=true" width="50%">
+
+Fig 3. Concept 2 robotic arm
 
 
 # 3.Design and building of the the first test cycliodal drive
@@ -61,8 +63,9 @@ So i designed it again with a excenter of 2 mm and i also found out that you can
 I redesigned protype cycliodal drive and printed it again then put all the parts together again and it was working perfectly.
 I also wanted to test it with using a arduino but i was not sure hoe much time i had this project to me it was enought that prototype was working hence i continued with the design of the arm.
 
+
 https://github.com/user-attachments/assets/8f9b8c5d-fb63-4ee2-9617-92ae7718714e
 
-
+Fig 4. Motion link study cycliodal drive
 
 
