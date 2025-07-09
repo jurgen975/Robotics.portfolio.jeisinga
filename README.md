@@ -66,11 +66,11 @@ I also wanted to test it with using a arduino but i was not sure hoe much time i
 
 
 
-https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/main/Bezig%20met%20opnemen%202024-10-07%20142414%20met%20excenter%20van%202.mp4
+https://github.com/jurgen975/Robotics.portfolio.jeisinga/issues/7#issue-3216799454
 
 
 
-Fig 4. Motion link study cycliodal drive
+Fig 4. Simulation cycliodal drive
 
 # Why a cycliodal drive?
 
