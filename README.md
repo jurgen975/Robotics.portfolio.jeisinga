@@ -77,12 +77,13 @@ Fig 3. Concept 2 robotic arm
 
 # 3.Design and building of the the first test cycliodal drive
 
-Because the design was made in fusion 360 I could use a app thats calles cycliodal drive maker else it would be almost impossible the the design the cycliodal drives that where used.
-I started with the design of a prototype cycliodal drive to validate if the disks that where designed with cycliodal drive maker would work.
-I build the prototype cycliodal drive but i came apperent to me that that something in the design had gone wrong because it was not working the cycliodal drives where stuck.
-So i designed it again with a excenter of 2 mm and i also found out that you can simulated the movement of the cycliodal dive.
-I redesigned protype cycliodal drive and printed it again then put all the parts together again and it was working perfectly.
-I also wanted to test it with using a arduino but i was not sure hoe much time i had this project to me it was enought that prototype was working hence i continued with the design of the arm.
+Since the design was created in Fusion 360, I took advantage of an app called Cycloidal Drive Maker—an essential tool, as manually designing the cycloidal profiles would have been extremely complex and time-consuming.
+
+I began by designing a prototype cycloidal drive to validate whether the generated disks from the tool would function as expected. After printing and assembling the first prototype, I quickly realized something was wrong: the drive was stuck and not rotating properly.
+
+Upon further investigation, I identified a design flaw and revised the model, this time introducing a 2 mm eccentricity. I also discovered that the movement of the cycloidal drive could be simulated within Fusion 360, which helped me better understand and optimize the mechanism.
+
+With the updated parameters, I reprinted the prototype, assembled the parts again, and this time the drive worked perfectly. I had considered testing it further using an Arduino for motion control, but due to limited time, I decided that validating the mechanical functionality was sufficient. With the working prototype in hand, I moved forward with designing the rest of the robotic arm.
 
 
 
