@@ -29,13 +29,33 @@ Fig.1 concept of rover with robotic arm
 
 # 2.Specs of the robot arm
 
-The specs for the robot arm are fairly simply.
-The robot arm should be build out of cheap 3D printed material(pla or ABS).
-The should be build consiting out of cheap cloed loop stepper motors.
-The robot arm Should be strong enough to pick up between 0.5 and 2 kg.
-The robot arm should concsist out of actuators with a minimum backslash.
-The robot arm should be around 1.5 to 2 m long.
-The robot arm should controlled with haptic gloves or toggles.
+## Robot Arm Specifications
+
+### 1. Structure & Materials:
+
+Constructed from affordable 3D printed materials (preferably PLA or ABS).
+
+Modular design for ease of printing, maintenance, and upgrades.
+
+### 2. Actuation:
+
+Equipped with budget-friendly closed-loop stepper motors to ensure positional feedback and improved control.
+
+Actuators should exhibit minimal backlash to allow for precise and smooth motion.
+
+### 3. Payload Capacity:
+
+The arm should be capable of lifting objects between 0.5 kg and 2 kg.
+
+### 4. Reach:
+
+The total length of the robotic arm should be in the range of 1.5 to 2 meters, enabling extended reach for a variety of tasks.
+
+### 5. Control Interface:
+
+The robot arm should be operable via haptic gloves or joystick/toggle input, enabling intuitive and responsive control.
+
+Would you like help drafting a concept design sketch or selecting suitable stepper motors and structural profiles for this build?
 
 
 # 2.Conceptual design
