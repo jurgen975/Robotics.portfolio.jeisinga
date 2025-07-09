@@ -145,3 +145,27 @@ Fig 6.Example what the inside of a cycliodal drive looks like
 
 
 
+# 4 Design robotic arm
+
+If we keep out mass inertia it s a very simple calcultion however it requires allot weight assumptions.In basic its a bending moment calculation.
+If you want to design a robotic arm you want to prevent that the arm crashes if it is completly horizontal.
+You start with the object the arm is holding and asume the weight of the gripper and the arm that is connected to it.
+The next step is to ad the asumpted weight of the actuator and then the next arm and so on.
+The next actuator needs to be more powerful to keep the complet mass in the air.
+Basically you make a hand calculation in excel,excel offers the flexibility change dimensions asumpted weights so that is why its a excellent tool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
