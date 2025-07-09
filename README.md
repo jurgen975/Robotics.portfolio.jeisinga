@@ -119,7 +119,7 @@ Needs lubrication
 Slight vibration
 
 
-https://github.com/user-attachments/assets/511e2779-7a20-463b-a285-b157359c101a
+[https://github.com/user-attachments/assets/511e2779-7a20-463b-a285-b157359c101a](https://github.com/user-attachments/assets/e5a3a993-a326-40e4-997c-080fe3b2d893)
 
 Fig 6.Example Openwork cycliodal drive
 
