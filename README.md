@@ -66,7 +66,8 @@ I also wanted to test it with using a arduino but i was not sure hoe much time i
 
 
 
-https://github.com/jurgen975/Robotics.portfolio.jeisinga/issues/7#issue-3216799454
+https://github.com/user-attachments/assets/e3d53fab-cc14-4aac-9171-1f78f3b8339a
+
 
 
 
