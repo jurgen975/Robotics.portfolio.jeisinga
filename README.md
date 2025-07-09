@@ -11,14 +11,13 @@ Outside of work, I enjoys fitness, fencing, and creating 3D-printed models, alon
 
 # 1.Arvatar project
 
-Arvatar Project Summary
+## Arvatar Project Overview
 
-Arvatar is an innovation project focused on developing a remotely controlled robotic system. It is a spin-off from an earlier project that aimed to build a rover with an integrated robotic arm. Due to limited manpower, that project was never fully realized.
+Arvatar is an innovation initiative focused on developing a remotely controlled robotic arm. It is a spin-off from an earlier project that aimed to create a full rover with an integrated robotic arm. However, due to limited resources, the original concept was never fully completed.
 
-The current version of Arvatar takes a more focused approach, concentrating solely on the development of a robotic arm. The arm will be constructed using 3D-printed components and low-cost stepper motors to keep the design affordable and accessible.
+The current version of Arvatar takes a more streamlined approach by concentrating exclusively on the robotic arm. The design prioritizes accessibility and affordability, utilizing 3D-printed components and low-cost closed-loop stepper motors.
 
-To address the torque limitations of stepper motors, each joint of the arm will incorporate cycloidal drives, enabling it to lift objects weighing between 0.5 and 2 kg. The design aims to maintain full functionality even at a reach of over 1 meter, making the system practical for a wide range of remote manipulation tasks.
-
+To overcome the torque limitations typically associated with stepper motors, each joint is equipped with a cycloidal drive. This allows the arm to lift loads ranging from 0.5 to 2 kg, even at an extended reach of over 1 meter. The result is a practical and robust system well-suited for a variety of remote manipulation tasks.
 
 <img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/4f23e76be507385357aeccc5363b5b43af4e9b93/1720725839099.jpeg?raw=true" width="50%">
 
