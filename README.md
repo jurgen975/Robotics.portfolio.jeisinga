@@ -74,6 +74,14 @@ Fig 2.Concept 1 robotic arm
 Fig 3. Concept 2 robotic arm
 
 
+
+![Image](https://github.com/user-attachments/assets/d814da55-9c11-4155-ac90-d8f4f311e1f7)
+
+Fig 4. Concept 3 robotic arm
+
+
+
+
 # 3.Design and building of the the first test cycliodal drive
 
 Since the design was created in Fusion 360, I took advantage of an app called Cycloidal Drive Maker—an essential tool, as manually designing the cycloidal profiles would have been extremely complex and time-consuming.
