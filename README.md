@@ -127,9 +127,8 @@ Upon further investigation, I identified a design flaw and revised the model, th
 
 With the updated parameters, I reprinted the prototype, assembled the parts again, and this time the drive worked perfectly. I had considered testing it further using an Arduino for motion control, but due to limited time, I decided that validating the mechanical functionality was sufficient. With the working prototype in hand, I moved forward with designing the rest of the robotic arm.
 
+https://github.com/jurgen975/Robotics.portfolio.jeisinga/issues/15#issue-3226295246
 
-
-https://github.com/user-attachments/assets/e3d53fab-cc14-4aac-9171-1f78f3b8339a
 
 Fig 8. Simulation cycliodal drive
 
