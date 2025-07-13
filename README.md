@@ -131,9 +131,8 @@ With the updated parameters, I reprinted the prototype, assembled the parts agai
 
 https://github.com/user-attachments/assets/e3d53fab-cc14-4aac-9171-1f78f3b8339a
 
-
-
 Fig 4. Simulation cycliodal drive
+
 
 # Why a cycliodal drive?
 
@@ -188,7 +187,21 @@ Fig 6.Example what the inside of a cycliodal drive looks like
 
 
 
-# 6.Design robotic arm
+# 6.Designing the test cycliodal drive
+
+Designing and putting the design together i noticed that the disks didnt want to move,the teeth where also to high.So redesigned the actuator with a excenter 2 mm instad of 3 mm.
+
+
+![Image](https://github.com/user-attachments/assets/dfc64668-49e9-40fc-9171-572d2105655e)
+
+![Image](https://github.com/user-attachments/assets/26e5ef52-fad0-4e96-bf54-1770b757ffd7)
+
+![Image](https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835)
+
+
+
+
+# 7.Design robotic arm
 
 If we keep out mass inertia it s a very simple calcultion however it requires allot weight assumptions.In basic its a bending moment calculation.
 If you want to design a robotic arm you want to prevent that the arm crashes if it is completly horizontal.
