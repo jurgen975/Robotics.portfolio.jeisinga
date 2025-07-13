@@ -131,7 +131,7 @@ With the updated parameters, I reprinted the prototype, assembled the parts agai
 
 https://github.com/user-attachments/assets/e3d53fab-cc14-4aac-9171-1f78f3b8339a
 
-Fig 4. Simulation cycliodal drive
+Fig 8. Simulation cycliodal drive
 
 
 # Why a cycliodal drive?
@@ -162,7 +162,7 @@ Output rollers capture this motion and rotate the output shaft at reduced speed.
 
 <img width="657" height="217" alt="Image" src="https://github.com/user-attachments/assets/f16e909e-68e4-43ca-890e-f990fa1c578f" />
 
-Fig 5.Example calculation cycliodal drive
+Fig 9.Example calculation cycliodal drive
 
 ### Pros
 High torque
@@ -183,7 +183,7 @@ Slight vibration
 
 [https://github.com/user-attachments/assets/511e2779-7a20-463b-a285-b157359c101a](https://github.com/user-attachments/assets/e5a3a993-a326-40e4-997c-080fe3b2d893)
 
-Fig 6.Example what the inside of a cycliodal drive looks like
+Fig 10.Example what the inside of a cycliodal drive looks like
 
 
 
@@ -192,13 +192,17 @@ Fig 6.Example what the inside of a cycliodal drive looks like
 Designing and putting the design together i noticed that the disks didnt want to move,the teeth where also to high.So redesigned the actuator with a excenter 2 mm instad of 3 mm.
 
 
-![Image](https://github.com/user-attachments/assets/dfc64668-49e9-40fc-9171-572d2105655e)
+<img src="https://github.com/user-attachments/assets/dfc64668-49e9-40fc-9171-572d2105655e" width="50%">
 
-![Image](https://github.com/user-attachments/assets/26e5ef52-fad0-4e96-bf54-1770b757ffd7)
+Fig 10.Main parts cycliodal drive 
+
+<img src="https://github.com/user-attachments/assets/26e5ef52-fad0-4e96-bf54-1770b757ffd7" width="50%">
+
+Fig 11.Assembled cycliodal drive
 
 ![Image](https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835)
 
-
+Fig 12.fusion 360 design
 
 
 # 7.Design robotic arm
