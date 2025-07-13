@@ -57,7 +57,7 @@ The robot arm should be operable via haptic gloves or joystick/toggle input, ena
 Would you like help drafting a concept design sketch or selecting suitable stepper motors and structural profiles for this build?
 
 
-# 2.Conceptual design
+# 3.Conceptual design
 
 I am very familair with the V-shape model that is used by module architect within asml,applied this many times myself whena transport tool was designed
 I designed 3 concepts with rufly the same dimensions.
@@ -94,7 +94,30 @@ Fig 7. Concept 3 Isometric view robotic arm
 
 
 
-# 3.Design and building of the the first test cycliodal drive
+# 4.Prelimenairy design review Concept 1&2&3
+
+Dimensions for all concept are basically the same,i can change them because i use a excel sheet to play with the weights and dimensions.
+
+##concept 1
+
++ Strait forward actuators are in line with eachother.
++ Depending on how i will connect the actuators with eachother,meaning a arm on one side or more a fork like arm this concept looks a safe option 
++ Conservative concept
+  
+##Concept 2
++ Shorter arm at the tip but of this concept which means less bulky actuators
+- Not able to validate how strong i have to make this excentric design 
+
+##Concept 3
+- To complex at this moment
+- Excentric design which looks attracive but i dont have a FEM calculation tool to make sure its strong ebough
+
+##Conclusion
+Concept 1 looks the best ,later in the design i have to make a desicion if i want to use a arm on one side of go for the fork arm design
+
+
+
+# 5.Design and building of the the first test cycliodal drive
 
 Since the design was created in Fusion 360, I took advantage of an app called Cycloidal Drive Maker—an essential tool, as manually designing the cycloidal profiles would have been extremely complex and time-consuming.
 
@@ -165,7 +188,7 @@ Fig 6.Example what the inside of a cycliodal drive looks like
 
 
 
-# 4 Design robotic arm
+# 6.Design robotic arm
 
 If we keep out mass inertia it s a very simple calcultion however it requires allot weight assumptions.In basic its a bending moment calculation.
 If you want to design a robotic arm you want to prevent that the arm crashes if it is completly horizontal.
