@@ -80,6 +80,10 @@ Fig 3. Concept 2 robotic arm
 Fig 4. Concept 3 robotic arm
 
 
+![Image](https://github.com/user-attachments/assets/f10e2a49-f859-4eac-9361-72ef05b8d224)
+
+Fig 5. Concept 3 Isometric view robotic arm
+
 
 
 # 3.Design and building of the the first test cycliodal drive
