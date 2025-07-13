@@ -67,7 +67,7 @@ From these 3 concepts I selected what I thought was the best one and started to 
 
 Fig 2.Concept 1 robotic arm
 
-![Image](https://github.com/user-attachments/assets/15bef3d5-14c3-4381-bdb7-14b49f2b4f57)
+<img src="https://github.com/user-attachments/assets/15bef3d5-14c3-4381-bdb7-14b49f2b4f57" width="50%">
 
 Fig 3.Concept 1 Isometric view Concept 1
 
