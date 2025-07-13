@@ -199,7 +199,8 @@ Fig 10.Main parts cycliodal drive
 
 Fig 11.Assembled cycliodal drive
 
-![Image](https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835)
+<img src="https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835" width="50%">
+
 
 Fig 12.fusion 360 design
 
