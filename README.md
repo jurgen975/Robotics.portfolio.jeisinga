@@ -230,13 +230,17 @@ Basically you make a hand calculation in excel,excel offers the flexibility chan
 
 Fig.17 Example calculation concept 1
 
+# 8.Detail design
+In this chapter i will show some design details of the robot arm.As stated previously i had no Fem analysis tool to me disposal so arm is probably a little bit over demensioned
+
+<img src="https://github.com/user-attachments/assets/0e8717ec-45fc-40cb-8202-f9e677f1d54b" width="50%">
+
+Fig .18 Isometric view robot arm 1
 
 
+<img src="https://github.com/user-attachments/assets/5c414358-cd3b-4f00-8e10-6edb953b95b5" width="50%">
 
-
-
-
-
+Fir.19 Isometric view robot arm 1
 
 
 
