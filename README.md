@@ -80,7 +80,7 @@ Fi 4.Isomtric view concept 1A
 <img src="https://github.com/user-attachments/assets/3177454e-ddc8-4370-958f-e988ae604e2a" width="50%">
 
 
-Fig 5.Isomyric view concept 1 B
+Fig 5.Isometric view concept 1 B
 
 <img src="https://github.com/user-attachments/assets/a9ee5799-15a2-44d3-8bd4-dd58db180ff9" width="50%">
 
@@ -112,7 +112,7 @@ Dimensions for all concept are basically the same,i can change them because i us
 ##concept 1
 
 + Strait forward actuators are in line with eachother.
-+ Depending on how i will connect the actuators with eachother,meaning a arm on one side or more a fork like arm this concept looks a safe option 
++ Depending on how i will connect the actuators with eachother,meaning a arm on one (concept 1B) side or more a fork like arm (Concept 1A)this concept looks a safe option 
 + Conservative concept
   
 ##Concept 2
