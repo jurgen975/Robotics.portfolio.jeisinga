@@ -242,5 +242,10 @@ Fig .18 Isometric view robot arm 1
 
 Fir.19 Isometric view robot arm 1
 
+# 9.Sub system berakdown
 
+## 9.1 short description robotic arm
+
+## 10.Detailed description and requirements
+## 10.1 Mechanocal breakdown robotic parts
 
