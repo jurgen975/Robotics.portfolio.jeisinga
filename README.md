@@ -72,30 +72,34 @@ Fig 2.Concept 1 robotic arm
 Fig 3.Concept 1 Isometric view Concept 1
 
 
-![Image](https://github.com/user-attachments/assets/801793a0-6768-45c2-92de-341c7691ffc9)
+![Image](https://github.com/user-attachments/assets/46a765af-63a9-4192-8b40-34f643c232e8)
 
-Fi 4.Isomtric view concept 1
+Fi 4.Isomtric view concept 1A
+
+https://github.com/jurgen975/Robotics.portfolio.jeisinga/issues/18#issue-3246376274
+
+Fig 5.Isomyric view concept 1 B
 
 <img src="https://github.com/user-attachments/assets/a9ee5799-15a2-44d3-8bd4-dd58db180ff9" width="50%">
 
-Fig 4. Concept 2 robotic arm
+Fig 6. Concept 2 robotic arm
 
 <img src="https://github.com/jurgen975/Robotics.portfolio.jeisinga/blob/949067bd4e9d4df3c4edeb5e1cae1387a92257ab/1726081905612.jpg?raw=true" width="50%">
 
 
-Fig 5. Isometric view concept 2
+Fig 7. Isometric view concept 2
 
 
 
 <img src="https://github.com/user-attachments/assets/d814da55-9c11-4155-ac90-d8f4f311e1f7" width="50%">
 
-Fig 6. Concept 3 robotic arm
+Fig 8. Concept 3 robotic arm
 
 
 <img src="https://github.com/user-attachments/assets/f10e2a49-f859-4eac-9361-72ef05b8d224" width="50%">
 
 
-Fig 7. Concept 3 Isometric view robotic arm
+Fig 9. Concept 3 Isometric view robotic arm
 
 
 
@@ -135,7 +139,7 @@ With the updated parameters, I reprinted the prototype, assembled the parts agai
 
 https://github.com/user-attachments/assets/385b46bd-afdb-4a00-a8de-3286c1ac143f
 
-Fig 8. Simulation cycliodal drive
+Fig 10. Simulation cycliodal drive
 
 
 # Why a cycliodal drive?
@@ -166,7 +170,7 @@ Output rollers capture this motion and rotate the output shaft at reduced speed.
 
 <img width="657" height="217" alt="Image" src="https://github.com/user-attachments/assets/f16e909e-68e4-43ca-890e-f990fa1c578f" />
 
-Fig 9.Example calculation cycliodal drive
+Fig 11.Example calculation cycliodal drive
 
 ### Pros
 High torque
@@ -187,7 +191,7 @@ Slight vibration
 
 [https://github.com/user-attachments/assets/511e2779-7a20-463b-a285-b157359c101a](https://github.com/user-attachments/assets/e5a3a993-a326-40e4-997c-080fe3b2d893)
 
-Fig 10.Example what the inside of a cycliodal drive looks like
+Fig 12.Example what the inside of a cycliodal drive looks like
 
 
 
@@ -198,16 +202,16 @@ Designing and putting the design together i noticed that the disks didnt want to
 
 <img src="https://github.com/user-attachments/assets/dfc64668-49e9-40fc-9171-572d2105655e" width="50%">
 
-Fig 10.Main parts cycliodal drive 
+Fig 13.Main parts cycliodal drive 
 
 <img src="https://github.com/user-attachments/assets/26e5ef52-fad0-4e96-bf54-1770b757ffd7" width="50%">
 
-Fig 11.Assembled cycliodal drive
+Fig 14.Assembled cycliodal drive
 
 <img src="https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835" width="50%">
 
 
-Fig 12.fusion 360 design
+Fig 14.fusion 360 design
 
 
 # 7.Design robotic arm
