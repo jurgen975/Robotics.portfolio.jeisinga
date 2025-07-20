@@ -256,5 +256,7 @@ Fir.19 Isometric view robot arm 1
 The robot arm contains the following main parts
 
 <img src="https://github.com/user-attachments/assets/0e8717ec-45fc-40cb-8202-f9e677f1d54b" width="50%">
+<link rel="stylesheet" href="https://unpkg.com/balloon-css/balloon.min.css">
+<button aria-label="This is a tooltip!" data-balloon-pos="up">Hover me!</button>
 
 Fig .20 Isometric view robot arm 1
