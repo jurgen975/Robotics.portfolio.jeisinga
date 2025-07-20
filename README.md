@@ -82,7 +82,7 @@ Fi 4.Isomtric view concept 1A
 
 Fig 5.Isometric view concept 1 B
 
-<img src="https://github.com/user-attachments/assets/a9ee5799-15a2-44d3-8bd4-dd58db180ff9" width="60%">
+<img src="https://github.com/user-attachments/assets/a9ee5799-15a2-44d3-8bd4-dd58db180ff9" width="50%">
 
 Fig 6. Concept 2 robotic arm
 
