@@ -213,7 +213,7 @@ Fig 14.Assembled cycliodal drive
 <img src="https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835" width="50%">
 
 
-Fig .16 
+Fig .16 Picture test cycliodal drive
 
 
 # 7.Design robotic arm
