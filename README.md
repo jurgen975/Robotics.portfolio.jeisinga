@@ -226,7 +226,7 @@ The next actuator needs to be more powerful to keep the complet mass in the air.
 Basically you make a hand calculation in excel,excel offers the flexibility change dimensions asumpted weights so that is why its a excellent tool.
 
 
-<img width="1697" height="661" alt="Image" src="https://github.com/user-attachments/assets/62e043b7-9fd7-4093-9890-4f0faaef069e" />
+<img width="1002" height="667" alt="Image" src="https://github.com/user-attachments/assets/ed5147d6-4959-4172-8af9-844766db294a" />
 
 Fig.17 Example calculation concept 1
 
