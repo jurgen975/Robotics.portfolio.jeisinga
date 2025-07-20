@@ -71,6 +71,11 @@ Fig 2.Concept 1 robotic arm
 
 Fig 3.Concept 1 Isometric view Concept 1
 
+
+![Image](https://github.com/user-attachments/assets/801793a0-6768-45c2-92de-341c7691ffc9)
+
+Fi 4.Isomtric view concept 1
+
 <img src="https://github.com/user-attachments/assets/a9ee5799-15a2-44d3-8bd4-dd58db180ff9" width="50%">
 
 Fig 4. Concept 2 robotic arm
