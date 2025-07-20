@@ -213,7 +213,7 @@ Fig 14.Assembled cycliodal drive
 <img src="https://github.com/user-attachments/assets/f37fb6e8-27d1-466f-8f21-688361ae4835" width="50%">
 
 
-Fig 15.fusion 360 design
+Fig .16 
 
 
 # 7.Design robotic arm
@@ -226,9 +226,9 @@ The next actuator needs to be more powerful to keep the complet mass in the air.
 Basically you make a hand calculation in excel,excel offers the flexibility change dimensions asumpted weights so that is why its a excellent tool.
 
 
+<img width="1697" height="661" alt="Image" src="https://github.com/user-attachments/assets/62e043b7-9fd7-4093-9890-4f0faaef069e" />
 
-
-
+Fig.17 Example calculation concept 1
 
 
 
