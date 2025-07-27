@@ -348,4 +348,18 @@ Validating Gripper 3
 All these designes have there Plus and minus pionts
 Fot time being i will progress with design of gripper 2,if its not working or not strong enough i have go back to drawing board
 
+## 12. Quick connection
+
+
+Because i want that its possible to connect diverend styles of grippers to the robot arm i started out investigating what a quick connection would look like
+I got inspired by a cobra buckle ,the simplisity of the cobra buckle design is attractive but real life use will determain if this design is strong enough
+
+<img src="https://github.com/user-attachments/assets/b8252a2c-76bd-4562-b8d1-c59c368930a3" style="width:50%;" />
+
+Fig. 26  Isomtric view cobra buckle inspired design
+
+<img src="https://github.com/user-attachments/assets/d818356e-51b6-4a9a-bc0f-586ceb663e0e" style="width:50%;" />
+
+Fig. 26  View Quick connect cobra buckle inspired design
+
 
