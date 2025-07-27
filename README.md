@@ -263,9 +263,28 @@ The robot arm contains the following main parts
 
 Fig .20 Isometric view robot arm 1
 
-## Concept and design gripper
+## 11. Concept and design gripper
 
-### Design gripper 1(linked motion concept)
+## 11.1 Specs gripper
+
+### 11.11 Materials:
+
+Constructed from affordable 3D printed materials (preferably PLA or ABS).
+
+
+### 11.12. Actuation:
+
+The with of the fripper should be around 70 mm or wider
+
+### 11.13. Payload Capacity:
+
+The arm should be capable of lifting objects between 0.5 kg and 2 kg.
+
+### 11.14. Servo:
+The servo should be a cheap dynamixel sero
+
+
+### 11.2 Design gripper 1(linked motion concept)
 
 Concept of a robot gripper using watt's linkage.
 A Watt's linkage is a type of mechanical linkage invented by James Watt in which the central moving point of the linkage is constrained to travel a nearly straight path. Watt's described the linkage in his patent specification of 1784 for the Watt steam engine.
@@ -288,7 +307,7 @@ Validating gripper 1:
 
 Conclusion:initial i had allot of trust in this design, its a very ellegant design but this design is simply not strong enough
 
-### Design Gripper 2
+### 11 .3 Design Gripper 2
 This is a more complex design where i use a teeth belly and several rollers make this design possible
 
 <img src="https://github.com/user-attachments/assets/a7f8f7f4-f76d-44ea-af70-2e2a572b58cf" style="width:50%;" />
@@ -312,7 +331,7 @@ Validating gripper 2
 -Not clear yet if it is easy to assemble
 
 
-### Design Gripper 3
+### 11.4 Design Gripper 3
 
 <img src="https://github.com/user-attachments/assets/1c08f562-f09a-4771-8bc2-a34c0dabd6c8" style="width:50%;" />
 
@@ -324,7 +343,7 @@ Validating Gripper 3
 +minimum parts
 -Not sure how strong this design will be
 
-### Conclusion
+### 11.5 Conclusion
 
 All these designes have there Plus and minus pionts
 Fot time being i will progress with design of gripper 2,if its not working or not strong enough i have go back to drawing board
