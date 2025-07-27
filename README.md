@@ -310,17 +310,12 @@ Conclusion:initial i had allot of trust in this design, its a very ellegant desi
 ### 11 .3 Design Gripper 2
 This is a more complex design where i use a teeth belly and several rollers make this design possible
 
-<img src="https://github.com/user-attachments/assets/a7f8f7f4-f76d-44ea-af70-2e2a572b58cf" style="width:50%;" />
+<img src="https://github.com/user-attachments/assets/b0a10f32-6bb1-4b08-ae71-41240b69c768" style="width:50%;" />
+
+<img src="https://github.com/user-attachments/assets/f084d6e4-8ddd-46fe-94fd-e01ff84b33e3" style="width:50%;" />
 
 Fig. 22 Isometric view Gripper 2
 
-<img src="https://github.com/user-attachments/assets/450619a2-5e2f-48e8-8bd2-1fe412c4f5e8" style="width:50%;" />
-
-Fig. 23 Isomtric view Gripper 2
-
-<img src="https://github.com/user-attachments/assets/70d2569c-c8b9-4ffb-9a30-0ed082dc9f40" style="width:50%;" />
-
-Fig. 24  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
 
 I have a little bit trust in this design i still have to assemble it but at this moment this design looks good
 
@@ -335,7 +330,7 @@ Validating gripper 2
 
 <img src="https://github.com/user-attachments/assets/1c08f562-f09a-4771-8bc2-a34c0dabd6c8" style="width:50%;" />
 
-Fig. 25  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
+Fig. 23  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
 
 Validating Gripper 3
 +Straight forward design
@@ -356,17 +351,17 @@ I got inspired by a cobra buckle ,the simplisity of the cobra buckle design is a
 
 <img src="https://github.com/user-attachments/assets/b8252a2c-76bd-4562-b8d1-c59c368930a3" style="width:50%;" />
 
-Fig. 26  Isomtric view cobra buckle inspired design
+Fig. 24  Isomtric view cobra buckle inspired design
 
 <img src="https://github.com/user-attachments/assets/d818356e-51b6-4a9a-bc0f-586ceb663e0e" style="width:50%;" />
 
-Fig. 26  View Quick connect cobra buckle inspired design
+Fig. 25  View Quick connect cobra buckle inspired design
 
 <img src="https://github.com/user-attachments/assets/fd5ea9cc-1941-4fb8-9e8d-a5bee9eaea62" style="width:50%;" />
 
 <img src="https://github.com/user-attachments/assets/5a7df17f-ee65-44b4-8197-eea878051503" style="width:50%;" />
 
-Fig. 27  Isometric view of robot arm with gripper 2
+Fig. 26  Isometric view of robot arm with gripper 2
 
 
 
