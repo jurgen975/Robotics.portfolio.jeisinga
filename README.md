@@ -279,7 +279,14 @@ https://github.com/user-attachments/assets/5a6c02ba-0414-4e3a-beb3-4614a49d757a
 
 Fig. 21 Detail design of the Watt's linkage concept
 
-I thought ths was a vey good first concept but because I make all the parts of 3D printed material it proved ot to be strong enough.
+Validating gripper 1:
+
++interresting construction where a rotating movement is translate into a rotating movement
+-Complex rob mechanisme
+-Complex rod mechanisme to put together
+-Rod mechanism to thin not strong enough to hold 2 kg
+
+Conclusion:initial i had allot of trust in this design, its a very ellegant design but this design is simply not strong enough
 
 ### Design Gripper 2
 This is a more complex design where i use a teeth belly and several rollers make this design possible
@@ -290,8 +297,36 @@ Fig. 22 Isometric view Gripper 2
 
 <img src="https://github.com/user-attachments/assets/450619a2-5e2f-48e8-8bd2-1fe412c4f5e8" style="width:50%;" />
 
-Fig. 22 Isomtric view Gripper 2
+Fig. 23 Isomtric view Gripper 2
 
 <img src="https://github.com/user-attachments/assets/70d2569c-c8b9-4ffb-9a30-0ed082dc9f40" style="width:50%;" />
 
-Fig. 22  Isomtric view Gripper 2
+Fig. 24  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
+
+I have a little bit trust in this design i still have to assemble it but at this moment this design looks good
+
+Validating gripper 2
++Robust
++Design is straight forward
+-Teeth belly goes straight true basis gripper jaws
+-Not clear yet if it is easy to assemble
+
+
+### Design Gripper 3
+
+<img src="https://github.com/user-attachments/assets/1c08f562-f09a-4771-8bc2-a34c0dabd6c8" style="width:50%;" />
+
+Fig. 25  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
+
+Validating Gripper 3
++Straight forward design
++Simple
++minimum parts
+-Not sure how strong this design will be
+
+### Conclusion
+
+All these designes have there Plus and minus pionts
+Fot time being i will progress with design of gripper 2,if its not working or not strong enough i have go back to drawing board
+
+
