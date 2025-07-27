@@ -362,4 +362,13 @@ Fig. 26  Isomtric view cobra buckle inspired design
 
 Fig. 26  View Quick connect cobra buckle inspired design
 
+<img src="https://github.com/user-attachments/assets/fd5ea9cc-1941-4fb8-9e8d-a5bee9eaea62" style="width:50%;" />
+
+<img src="https://github.com/user-attachments/assets/5a7df17f-ee65-44b4-8197-eea878051503" style="width:50%;" />
+
+Fig. 27  Isometric view of robot arm with gripper 2
+
+
+
+
 
