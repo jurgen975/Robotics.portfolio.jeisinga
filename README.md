@@ -285,10 +285,13 @@ I thought ths was a vey good first concept but because I make all the parts of 3
 This is a more complex design where i use a teeth belly and several rollers make this design possible
 
 <img src="https://github.com/user-attachments/assets/a7f8f7f4-f76d-44ea-af70-2e2a572b58cf" style="width:50%;" />
-Fig. 22 Gripper 2
+
+Fig. 22 Isometric view Gripper 2
 
 <img src="https://github.com/user-attachments/assets/450619a2-5e2f-48e8-8bd2-1fe412c4f5e8" style="width:50%;" />
-Fig. 22 Gripper 2
+
+Fig. 22 Isomtric view Gripper 2
 
 <img src="https://github.com/user-attachments/assets/70d2569c-c8b9-4ffb-9a30-0ed082dc9f40" style="width:50%;" />
-Fig. 22 Gripper 2
+
+Fig. 22  Isomtric view Gripper 2
