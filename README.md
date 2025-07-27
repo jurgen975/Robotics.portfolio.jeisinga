@@ -255,8 +255,24 @@ Fir.19 Isometric view robot arm 1
 
 The robot arm contains the following main parts
 
+
 <img src="https://github.com/user-attachments/assets/0e8717ec-45fc-40cb-8202-f9e677f1d54b" width="50%">
 <link rel="stylesheet" href="https://unpkg.com/balloon-css/balloon.min.css">
+
 <button aria-label="This is a tooltip!" data-balloon-pos="up">Hover me!</button>
 
 Fig .20 Isometric view robot arm 1
+
+## Concept and design gripper
+
+### Design gripper 1(linked motion concept)
+
+Concept of a robot gripper using watt's linkage.
+A Watt's linkage is a type of mechanical linkage invented by James Watt in which the central moving point of the linkage is constrained to travel a nearly straight path. Watt's described the linkage in his patent specification of 1784 for the Watt steam engine.
+
+https://github.com/user-attachments/assets/9dd68d49-2878-4e4b-aa79-ac6d7ac4ef8b
+
+Fig. 20 Watt'slinkage concept
+
+https://github.com/user-attachments/assets/5a6c02ba-0414-4e3a-beb3-4614a49d757a
+Fig. 20 Detail design of the Watt's linkage concept
