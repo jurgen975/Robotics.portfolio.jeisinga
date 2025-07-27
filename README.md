@@ -275,4 +275,5 @@ https://github.com/user-attachments/assets/9dd68d49-2878-4e4b-aa79-ac6d7ac4ef8b
 Fig. 20 Watt'slinkage concept
 
 https://github.com/user-attachments/assets/5a6c02ba-0414-4e3a-beb3-4614a49d757a
-Fig. 20 Detail design of the Watt's linkage concept
+
+Fig. 21 Detail design of the Watt's linkage concept
