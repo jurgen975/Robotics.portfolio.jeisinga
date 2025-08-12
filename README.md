@@ -1,14 +1,14 @@
 # About
 
-I am a Senior Designer with a background in complex engineering projects across various industries, including semiconductor technology, robotics, and heavy machinery. Currently, at Capgemini Engineering, I lead the development of a robotic arm for the innovative Arvatar Project. This initiative focuses on remote-controlled robotics, leveraging 3D printing and cycloidal drive mechanisms to maximize torque and efficiency in a lightweight design.
+I am a Senior Designer with a background in complex engineering projects across various industries, including semiconductor technology, robotics, and heavy machinery. Currently, at Capgemini Engineering, I lead the development of a robotic arm for the innovative Arvatar Project. This initiative focus on 3D printing and cycloidal drive mechanisms to maximize torque and efficiency in a lightweight design.
 
 
 Avatar robotics is the field of developing remotely operated robotic systems that act as a physical extension of a human, allowing the operator to see, hear, move, and interact with a distant environment in real time—often enhanced with immersive technologies like VR, AR, haptic feedback, and motion capture, so the experience feels as if the operator is physically present in the robot’s location.
 
 It’s essentially telepresence with a body—but a body that can work in hazardous, remote, or inaccessible places.
 
-
 However halfway true the devolment of this arm the project was canceled,but i could continue solo with this project
+
 
 ## About me
  Prior to this, I held key roles at ASML, where he contributed to wafer stage cooling unit concepts and transport tool solutions for EUV lithography machines, ensuring precision and durability for equipment transporting modules weighing up to 30 tons. My expertise in mechanical design extends over 34 years, with projects ranging from transport tools and robotic systems to complex prototypes for international clients.
@@ -18,11 +18,11 @@ However halfway true the devolment of this arm the project was canceled,but i co
 Outside of work, I enjoys fitness, fencing, and creating 3D-printed models, alongside hands-on projects like telescope construction.
 
 
-# 1.Arvatar project
+# 1.Avatar project
 
-## Arvatar Project Overview
+## Avatar Project Overview
 
-Arvatar is an innovation initiative focused on developing a remotely controlled robotic arm. It is a spin-off from an earlier project that aimed to create a full rover with an integrated robotic arm. However, due to limited resources, the original concept was never fully completed.
+Avatar is an innovation initiative focused on developing a remotely controlled robotic arm. It is a spin-off from an earlier project that aimed to create a full rover with an integrated robotic arm. However, due to limited resources, the original concept was never fully completed.
 
 The current version of Arvatar takes a more streamlined approach by concentrating exclusively on the robotic arm. The design prioritizes accessibility and affordability, utilizing 3D-printed components and low-cost closed-loop stepper motors.
 
