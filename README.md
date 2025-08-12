@@ -7,7 +7,7 @@ Avatar robotics is the field of developing remotely operated robotic systems tha
 
 It’s essentially telepresence with a body—but a body that can work in hazardous, remote, or inaccessible places.
 
-However halfway true the devolment of this arm the project was canceled,but i could continue solo with this project
+However halfway true the devolment of this arm the project was canceled.
 
 
 ## About me
