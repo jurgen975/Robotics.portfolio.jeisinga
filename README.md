@@ -2,7 +2,11 @@
 
 I am a Senior Designer with a background in complex engineering projects across various industries, including semiconductor technology, robotics, and heavy machinery. Currently, at Capgemini Engineering, I lead the development of a robotic arm for the innovative Arvatar Project. This initiative focuses on remote-controlled robotics, leveraging 3D printing and cycloidal drive mechanisms to maximize torque and efficiency in a lightweight design.
 
-However halfway true the devolment of this arm the project was canceled,I was allowed to continue which I happely did.
+Avatar robotics is the field of developing remotely operated robotic systems that act as a physical extension of a human, allowing the operator to see, hear, move, and interact with a distant environment in real time—often enhanced with immersive technologies like VR, AR, haptic feedback, and motion capture, so the experience feels as if the operator is physically present in the robot’s location.
+
+It’s essentially telepresence with a body—but a body that can work in hazardous, remote, or inaccessible places.
+
+However halfway true the devolment of this arm the project was canceled,but i could continue solo with this project
 
  Prior to this, I held key roles at ASML, where he contributed to wafer stage cooling unit concepts and transport tool solutions for EUV lithography machines, ensuring precision and durability for equipment transporting modules weighing up to 30 tons. My expertise in mechanical design extends over 34 years, with projects ranging from transport tools and robotic systems to complex prototypes for international clients.
 
