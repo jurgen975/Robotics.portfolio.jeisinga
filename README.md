@@ -374,6 +374,17 @@ Fig. 26  Isometric view of robot arm with gripper 2
 
 ## 13 Concepts to make vision possible
 
+
+
+
+<img src="https://github.com/user-attachments/assets/9a80cb28-722f-4e21-9559-ad50b4a8f49a" style="width:50%;" />
+
+Fig 27 Concept 1 stereo camera on robotic arm
+
+
+
+
+
 ## 14 Haptic Glove
 
 The question is do i need a hand shaped size haptic glove for picking up objects or are toggles sufficient for what i need?
