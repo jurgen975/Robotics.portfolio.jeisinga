@@ -478,7 +478,8 @@ The gripper design could change,and i could ad a hand shaped design to the robot
 I will use a open source haptic glove design because i am out of my depth when it comes to electronics and designing a haptic glove.
 The haptic glove designed by lucasVRTech gloves are a very good choice.
 
-![Image](https://github.com/user-attachments/assets/e1257526-060a-4251-bac8-7dcaada4202b)
+
+![Image](https://github.com/user-attachments/assets/f2ddf5da-33a8-4389-9827-009fafde60f6)
 
 Fig. 27 Open source haptic glove
 
