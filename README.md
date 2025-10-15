@@ -372,6 +372,116 @@ Fig. 25  View Quick connect cobra buckle inspired design
 
 Fig. 26  Isometric view of robot arm with gripper 2
 
+## 13 Concepts to make vision possible
+
+## 14 Haptic Glove
+
+The question is do i need a hand shaped size haptic glove for picking up objects or are toggles sufficient for what i need?
+
+Short answer: ## It depends on what you need the gripper to do.
+Toggles (buttons/switches/joysticks) are often perfectly fine for simple pick-and-place or single–degree open/close tasks. A hand-shaped glove (with finger tracking and/or force feedback) becomes worth it when you need dexterity, natural teleoperation, or better operator embodiment and situational awareness.
+
+
+
+## 14.1 When toggles are enough
+
+-Use simple toggles when most of these are true:
+
+-Gripper only needs open / close (maybe a couple presets like half-close).
+
+-Tasks are repetitive pick-and-place, bin picking, or coarse positioning.
+
+-Speed, robustness, low cost and reliability matter more than finesse.
+
+-Operators don’t need to feel or finely control individual fingers.
+
+-You want a compact, easy-to-certify control interface (industrial settings).
+
+-Advantages: cheap, robust, low training, easy safety integration, low latency.
+
+-When a hand-shaped haptic glove is better
+
+## 14.2 Choose a glove if any of these apply:
+
+-You need independent finger control or in-hand manipulation (reorienting, rolling, pivoting).
+
+-You want natural teleoperation — operators perform better when the control maps to their own hand motion.
+
+-Tasks require graded force/pressure control or delicate handling (fragile objects).
+
+-You need better situational awareness / embodiment (e.g., remote surgery, service robots, telepresence).
+
+-You want to record human demonstrations for imitation learning.
+
+-Advantages: intuitive control, higher dexterity, better operator acceptance for complex tasks.
+
+## 14.3 Important distinctions about gloves
+
+-Tracking-only gloves (flex sensors/IMUs/cameras): good for mapping finger positions to a multi-finger gripper. No force feedback — operator won’t “feel” contact.
+
+-Haptic/force-feedback gloves or exoskeletons: can render contact forces (more complex, heavier, costly). Useful if you need force sensation or bilateral control.
+
+-EMG gloves/sensors: can detect muscle intent — useful where motion tracking is hard but adds calibration complexity.
+
+## 14.4 Practical hybrid options (often best)
+
+Toggle + mode switch: simple toggles for gross motion + a glove or joystick mode for fine dexterity.
+
+Preset grasps + a single degree trigger: provide 3–5 presets (pinch, wide, hook) selected with a button and refined with a single slider/rotary.
+
+Thumb + index tracking only: cheaper partial glove that delivers most pinch-based control.
+
+## 14.5 Control & mapping tips (regardless of interface)
+
+-Use scaling: map large human motions to small gripper motions for precision.
+
+-Provide deadbands and hysteresis to avoid jitter from sensors.
+
+-Offer grip force limits and compliance (software impedance) for safety.
+
+-Implement quick presets and one-button emergency stop.
+
+-Keep latency < 50 ms for teleoperation feel (lower is better).
+
+-Provide visual or audio feedback if there’s no haptic feedback.
+
+## 14.6 Cost / complexity tradeoffs
+
+-Toggles: low cost, easy to maintain, industrial-ready.
+
+-Full haptic glove with force feedback: high cost, heavier, more maintenance, but much better for fine tasks and training/recording.
+
+## 14.7 Recommendation (practical)
+
+-If your gripper performs basic open/close or a few grasp types → start with toggles + presets. It’s simpler and often adequate.
+
+-If you aim for dexterous manipulation, natural teleoperation, or demonstration collection for learning → invest in a glove (start with a tracking glove; add force feedback later if needed).
+
+-Consider a hybrid: toggles for everyday ops and a glove mode for special tasks.
+
+## 14.8 Conclusion
+The gripper design could change,and i could ad a hand shaped design to the robot arm so for now and i will stick with the hand shaped designfor the reasons mentioned in chapter 14.2
+
+## 15. Design haptic gloves
+
+I will use a open source haptic glove design because i am out of my depth when it comes to electronics and designing a haptic glove.
+The haptic glove designed by lucasVRTech gloves are a very good choice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
