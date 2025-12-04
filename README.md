@@ -352,6 +352,8 @@ Validating Gripper 3
 Latley i have thinking of designing a human hand to use as a end effector because i am not sure if the gripper i designed is suitable enough to pck up irragulair objects
 and i must say that i have be intrigued by the idea of designening a mechanical hand.
 
+## Some arguments why i should look into this
+
 ### 11.5.1. Degrees of Freedom (DoF)
 
 A human hand has 21+ degrees of freedom.
