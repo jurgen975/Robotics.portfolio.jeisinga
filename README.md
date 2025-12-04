@@ -463,11 +463,14 @@ I updated the desgined of the cobra coupling for reasons
 2)The spring where fary loose in there sockes so i added spring screw thread, the result was that the spring is locked in its thread socket.
 
 <img src="https://github.com/user-attachments/assets/26f991de-3a4b-49ef-b6ad-dab65defaeca" width="50%">
-Fig 26
+
+Fig 26 The updated cobra coupling
 <img src="https://github.com/user-attachments/assets/8ae10612-178f-4c6d-85c2-75f2e26e47e2" width="50%">
+
 Fig 27 Isometric view cobra coupling
 <img src="https://github.com/user-attachments/assets/113c2202-e338-4ff5-932b-c32316994e07" width="50%">
-Fig 28 Isometric view cobra coupling
+
+Fig 28 Isometric view cobra coupling 2
 
 
 ## 13.1 View Coupling between robot arm and gripper
