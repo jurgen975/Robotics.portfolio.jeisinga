@@ -352,7 +352,7 @@ Validating Gripper 3
 All these designes have there Plus and minus pionts
 Fot time being i will progress with design of gripper 2,if its not working or not strong enough i have go back to drawing board
 
-## 12. Quick connection
+## 12.1 cobra coupling
 
 
 Because i want that its possible to connect diverend styles of grippers to the robot arm i started out investigating what a quick connection would look like
@@ -368,6 +368,10 @@ Fig. 25  View Quick connect cobra buckle inspired design
 
 ## 12.2 New cobra coupling
 
+I updated the desgined of the cobra coupling for reasons
+
+1)In the first design i had no control over the presure on the springs and if you make if adjustable then it works fine
+2)The spring where fary loose in there sockes so i added spring screw thread, the result was that the spring is locked in its thread socket.
 
 <img src="https://github.com/user-attachments/assets/26f991de-3a4b-49ef-b6ad-dab65defaeca" width="50%">
 Fig 26
