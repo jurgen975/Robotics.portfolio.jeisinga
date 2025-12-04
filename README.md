@@ -380,11 +380,28 @@ Fig 27 Isometric view cobra coupling
 <img src="https://github.com/user-attachments/assets/113c2202-e338-4ff5-932b-c32316994e07" width="50%">
 Fig 28 Isometric view cobra coupling
 
+
+## 13.1 View Coupling between robot arm and gripper
+
+
+
 <img src="https://github.com/user-attachments/assets/fd5ea9cc-1941-4fb8-9e8d-a5bee9eaea62" style="width:50%;" />
 
 <img src="https://github.com/user-attachments/assets/5a7df17f-ee65-44b4-8197-eea878051503" style="width:50%;" />
 
-Fig. 26  Isometric view of robot arm with gripper 2
+Fig. 29  Isometric view of robot arm with gripper 2
+
+## 13.2 Updated view Cobracoupling between arm and gripper
+
+
+<img src="https://github.com/user-attachments/assets/94a2ccf3-1642-41f3-b2e6-117e44848e02" width="50%">
+
+Fig. 31  Updated view robot arm with new cobra coupling
+
+<img src="https://github.com/user-attachments/assets/3e6a4579-cbd5-4a3c-942b-6b2ae9e9fe56" width="50%">
+
+Fig. 32 Updated view Robot arm 
+
 
 ## 13 Concepts to make vision possible
 
@@ -393,7 +410,7 @@ Fig. 26  Isometric view of robot arm with gripper 2
 
 <img src="https://github.com/user-attachments/assets/9a80cb28-722f-4e21-9559-ad50b4a8f49a" style="width:50%;" />
 
-Fig 27 Concept 1 stereo camera on robotic arm
+Fig 30 Concept 1 stereo camera on robotic arm
 
 
 
