@@ -366,6 +366,16 @@ Fig. 24  Isomtric view cobra buckle inspired design
 
 Fig. 25  View Quick connect cobra buckle inspired design
 
+## 12.2 New cobra coupling
+
+
+<img src="https://github.com/user-attachments/assets/26f991de-3a4b-49ef-b6ad-dab65defaeca" width="50%">
+Fig 26
+<img src="https://github.com/user-attachments/assets/8ae10612-178f-4c6d-85c2-75f2e26e47e2" width="50%">
+Fig 27 Isometric view cobra coupling
+<img src="https://github.com/user-attachments/assets/113c2202-e338-4ff5-932b-c32316994e07" width="50%">
+Fig 28 Isometric view cobra coupling
+
 <img src="https://github.com/user-attachments/assets/fd5ea9cc-1941-4fb8-9e8d-a5bee9eaea62" style="width:50%;" />
 
 <img src="https://github.com/user-attachments/assets/5a7df17f-ee65-44b4-8197-eea878051503" style="width:50%;" />
