@@ -435,14 +435,9 @@ low-friction
 sensitive to misalignment
 
 Soft robotics tries to copy this — but isn’t close yet.
+I think it will be a quite a challenge to design design something like a hand.
+One other minus piont will nbe that it add extra mass to the arm
 
-
-
-
-### 11.5 Conclusion
-
-All these designes have there Plus and minus pionts
-Fot time being i will progress with design of gripper 2,if its not working or not strong enough i have go back to drawing board
 
 ## 12.1 cobra coupling
 
