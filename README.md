@@ -347,7 +347,7 @@ Validating Gripper 3
 +minimum parts
 -Not sure how strong this design will be
 
-### 11.5 Human hand
+## 11.5 Human hand as a functioning end effector
 
 Latley i have thinking of designing a human hand to use as a end effector because i am not sure if the gripper i designed is suitable enough to pck up irragulair objects
 and i must say that i have be intrigued by the idea of designening a mechanical hand.
