@@ -657,6 +657,53 @@ https://www.stepperonline.nl/lrs-100-12-meanwell-100w-12vdc-8-5a-115-230vac-gesl
 
 Cross referencend this with grok looked and accoring to grok this was ok
 
+# 16.1 Calculation power supply nema 23 motors
+
+Power Calculation (Engineering Basis)
+Stepper Motors (5 axes total)
+Worst-case copper loss estimation (2 phases energized):
+P≈2⋅I^2⋅R
+
+Where:
+I=2.8A
+I^2=7.84
+
+3× 23HS22 (R = 0.9Ω)
+Per motor:
+2⋅7.84⋅0.9=14.11W
+
+For 3 motors:
+3⋅14.11=42.33W
+
+________________________________________
+2× 23HS30 (R = 1.13Ω)
+Per motor:
+2⋅7.84⋅1.13=17.72W
+
+For 2 motors:
+2⋅17.72=35.44W
+
+________________________________________
+Total Stepper Copper Loss
+42.33+35.44=77.77W
+
+Now include:
+	Driver losses
+	Switching losses
+	Mechanical load
+	Current peaks
+	Safety margin
+Practical engineering rule: multiply by ~2
+" 						" 160Wrealisticheavy-loadestimate
+
+________________________________________
+Current Required at 48V
+I=P/V=160/48=3.3A
+
+For proper headroom and future-proofing:
+✅ Recommended: 48V power supply rated 7–10A
+
+
 
 
 
