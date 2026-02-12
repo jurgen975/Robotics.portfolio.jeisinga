@@ -609,11 +609,53 @@ The haptic glove designed by lucasVRTech gloves are a very good choice.
 Fig. 27 Open source haptic glove
 
 
+# 16.Power supply
 
+I am sure that i dont prior knoledge to selected a power supply and with the new technology meaning large laungage models the possibility seams endless.I am also convinced that you can produce 
+code with the right tool,ofcourse you need some knowledge and i already experimented with coding for small tasks.
+I think the key is to write a very detailed prompt
+For this part i used chatgpt and Grok to cross reference the answers that chatgpt gave me.
 
+Input(prompt)
+So I asked the following question
+I have the following steppermotors
+3x23HS22-2804-ME1K(2.8A/phase, R=0,9 ohm,encoder 3.3-5.5V,20 mA
+2x23HS30-2804-ME1K(2.8A/phase, R=1,3 ohm,encoder 3.3-5.5V,20 mA
+1xdynamixel XL430-W250-T
+For the NEMA 23s i am using the following drivers
+5xCL57T(V4.0/V4.1)
+I want to connct the 5 nema 23s on one power supply or should i use a second power supply
+Could you advice me wich power supply i could use and could you back this up with a calculation.
+Show the links where i can buy these power supplys
 
+Answer
+Recommended
+Optie A: 2 power supplies (230VAC → 48V én 12V)
+48V power supply for 5 stepperdrivers
+12V power supply fort the Dynamixel
+Math sizing (stepper motors)
+Worst-case torque loss (hold/lots of torque), 2-phase approach active;
+P≈2⋅I^2⋅R,I=2.8A⇒I^2=7.84
 
+3× (R=0.9Ω): per motor 2⋅7.84⋅0.9=14.11W⇒ 42.33W
+2× (R=1.13Ω): per motor 2⋅7.84⋅1.13=17.72W⇒ 35.44W
+Totaal ≈ 77.8W (only motor-torque loss)
+Take the driver losses + peaks + marge (practical ~×2) ⇒ ~160W.
+For 48V: 160/48≈3.3A. With healthy headroom i recommend:
+✅ 48V / 7.3A tot 10A (350–480W clas)
+For the  Dynamixel (peak/stall, Cabel losses):
+✅ 12V / 3A (of 12V / 5A if you expend on this) 
 
+Concrete power supplies+purchase links
+1) 48V power (for CL57T)
+Mean Well LRS-350-48 — 48V 7.3A (350W)
+https://www.stepperonline.nl/lrs-350-48-meanwell-350w-48vdc-7-3a-115-230vac-gesloten-schakelende-voeding-lrs-350-48
+
+2) 12V voeding (voor Dynamixel)
+Mean Well LRS-100-12 — 12V 8.5A (100W) (ruim, maar stabiel en future-proof)
+https://www.stepperonline.nl/lrs-100-12-meanwell-100w-12vdc-8-5a-115-230vac-gesloten-schakelende-voeding-lrs-100-12?utm_source=chatgpt.com
+
+Cross referencend this with grok looked and accoring to grok this was ok
 
 
 
