@@ -703,7 +703,9 @@ I=P/V=160/48=3.3A
 For proper headroom and future-proofing:
 ✅ Recommended: 48V power supply rated 7–10A
 
+![Image](https://github.com/user-attachments/assets/24e5f0d2-4d67-4c14-baff-afb5141ba1c0)
 
+Fig 28 Layout of the power supply
 
 
 
