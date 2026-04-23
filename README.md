@@ -252,7 +252,8 @@ Fig .18 Isometric view robot arm 1
 Fig.19 Isometric view robot arm 1
 
 
-https://github.com/user-attachments/assets/3d890fdc-2b31-424f-b04c-96e302f89f42
+<https://github.com/user-attachments/assets/3d890fdc-2b31-424f-b04c-96e302f89f42>
+
 Fig 20.3 Sec video robot arm
 
 
@@ -275,7 +276,7 @@ The robot arm contains the following main parts
 
 <button aria-label="This is a tooltip!" data-balloon-pos="up">Hover me!</button>
 
-Fig .20 Isometric view robot arm 1
+Fig .21 Isometric view robot arm 1
 
 ## 11. Concept and design gripper
 
@@ -306,11 +307,11 @@ A Watt's linkage is a type of mechanical linkage invented by James Watt in which
 
 https://github.com/user-attachments/assets/9dd68d49-2878-4e4b-aa79-ac6d7ac4ef8b
 
-Fig. 20 Watt'slinkage concept
+Fig. 22 Watt'slinkage concept
 
 https://github.com/user-attachments/assets/5a6c02ba-0414-4e3a-beb3-4614a49d757a
 
-Fig. 21 Detail design of the Watt's linkage concept
+Fig. 23 Detail design of the Watt's linkage concept
 
 Validating gripper 1:
 
@@ -328,7 +329,7 @@ This is a more complex design where i use a teeth belly and several rollers make
 
 <img src="https://github.com/user-attachments/assets/f084d6e4-8ddd-46fe-94fd-e01ff84b33e3" style="width:50%;" />
 
-Fig. 22 Isometric view Gripper 2
+Fig. 24 Isometric view Gripper 2
 
 
 I have a little bit trust in this design i still have to assemble it but at this moment this design looks good
@@ -344,7 +345,7 @@ Validating gripper 2
 
 <img src="https://github.com/user-attachments/assets/1c08f562-f09a-4771-8bc2-a34c0dabd6c8" style="width:50%;" />
 
-Fig. 23  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
+Fig. 25  Isomtric view Gripper 2 motor is stickingout true one of the side pannels
 
 Validating Gripper 3
 +Straight forward design
@@ -454,11 +455,11 @@ I got inspired by a cobra buckle ,the simplisity of the cobra buckle design is a
 
 <img src="https://github.com/user-attachments/assets/b8252a2c-76bd-4562-b8d1-c59c368930a3" style="width:50%;" />
 
-Fig. 24  Isomtric view cobra buckle inspired design
+Fig. 26  Isomtric view cobra buckle inspired design
 
 <img src="https://github.com/user-attachments/assets/d818356e-51b6-4a9a-bc0f-586ceb663e0e" style="width:50%;" />
 
-Fig. 25  View Quick connect cobra buckle inspired design
+Fig. 27  View Quick connect cobra buckle inspired design
 
 ## 12.2 New cobra coupling
 
@@ -469,15 +470,15 @@ I updated the desgined of the cobra coupling for reasons
 
 <img src="https://github.com/user-attachments/assets/26f991de-3a4b-49ef-b6ad-dab65defaeca" width="50%">
 
-Fig 26 The updated cobra coupling
+Fig 28 The updated cobra coupling
 
 <img src="https://github.com/user-attachments/assets/8ae10612-178f-4c6d-85c2-75f2e26e47e2" width="50%">
 
-Fig 27 Isometric view cobra coupling
+Fig 29 Isometric view cobra coupling
 
 <img src="https://github.com/user-attachments/assets/113c2202-e338-4ff5-932b-c32316994e07" width="50%">
 
-Fig 28 Isometric view cobra coupling 2
+Fig 30 Isometric view cobra coupling 2
 
 
 ## 13.1 View Coupling between robot arm and gripper
@@ -488,18 +489,18 @@ Fig 28 Isometric view cobra coupling 2
 
 <img src="https://github.com/user-attachments/assets/5a7df17f-ee65-44b4-8197-eea878051503" style="width:50%;" />
 
-Fig. 29  Isometric view of robot arm with gripper 2
+Fig. 31  Isometric view of robot arm with gripper 2
 
 ## 13.2 Updated view Cobracoupling between arm and gripper
 
 
 <img src="https://github.com/user-attachments/assets/94a2ccf3-1642-41f3-b2e6-117e44848e02" width="50%">
 
-Fig. 31  Updated view robot arm with new cobra coupling
+Fig. 32  Updated view robot arm with new cobra coupling
 
 <img src="https://github.com/user-attachments/assets/3e6a4579-cbd5-4a3c-942b-6b2ae9e9fe56" width="50%">
 
-Fig. 32 Updated view Robot arm 
+Fig. 33 Updated view Robot arm 
 
 
 ## 13 Concepts to make vision possible
@@ -509,7 +510,7 @@ Fig. 32 Updated view Robot arm
 
 <img src="https://github.com/user-attachments/assets/9a80cb28-722f-4e21-9559-ad50b4a8f49a" style="width:50%;" />
 
-Fig 30 Concept 1 stereo camera on robotic arm
+Fig 34 Concept 1 stereo camera on robotic arm
 
 
 
@@ -611,7 +612,7 @@ The haptic glove designed by lucasVRTech gloves are a very good choice.
 
 ![Image](https://github.com/user-attachments/assets/f2ddf5da-33a8-4389-9827-009fafde60f6)
 
-Fig. 27 Open source haptic glove
+Fig. 32 Open source haptic glove
 
 
 # 16.Power supply
@@ -710,7 +711,7 @@ For proper headroom and future-proofing:
 
 ![Image](https://github.com/user-attachments/assets/24e5f0d2-4d67-4c14-baff-afb5141ba1c0)
 
-Fig 28 Layout of the power supply
+Fig 33 Layout of the power supply
 
 
 
