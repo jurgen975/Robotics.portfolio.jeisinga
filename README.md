@@ -249,7 +249,12 @@ Fig .18 Isometric view robot arm 1
 
 <img src="https://github.com/user-attachments/assets/5c414358-cd3b-4f00-8e10-6edb953b95b5" width="50%">
 
-Fir.19 Isometric view robot arm 1
+Fig.19 Isometric view robot arm 1
+
+
+https://github.com/user-attachments/assets/3d890fdc-2b31-424f-b04c-96e302f89f42
+Fig 20.3 Sec video robot arm
+
 
 # 9.Sub system breakdown
 
